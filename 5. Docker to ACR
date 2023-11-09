@@ -9,3 +9,4 @@ sudo docker tag nginx pnnlacr.azurecr.io/nginx
 sudo docker push pnnlacr.azurecr.io/nginx
 
 sudo docker pull pnnlacr.azurecr.io/nginx
+ 
