@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sudo cd /usr/share/nginx/html
+
+sudo mkdir current edits archive
+
+sudo mv index.html edits
+
+sudo cp edits/ current/
+sudo cp edits/ archive/
