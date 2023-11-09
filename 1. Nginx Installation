@@ -14,3 +14,4 @@ sudo systemctl enable nginx
 
 # Check Nginx service status
 sudo systemctl status nginx
+ 
