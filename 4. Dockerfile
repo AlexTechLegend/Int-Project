@@ -6,3 +6,4 @@ COPY edits/index.html /usr/share/nginx/html/
 
 # Expose port 80 (default HTTP port)
 EXPOSE 80
+ 
