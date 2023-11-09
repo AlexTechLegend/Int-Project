@@ -14,6 +14,3 @@ sudo systemctl enable docker
 
 # Quick update
 sudo apt update
-
-# Pull common docker images
-sudo docker pull nginx
