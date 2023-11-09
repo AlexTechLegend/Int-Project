@@ -17,7 +17,7 @@ case $answer in
     2) location="westus" ;;
     *) echo "Invalid choice. Exiting." && exit 1 ;;
 esac
-
+ 
 # Prompt user for the VM Image
 echo "Choose a VM image
 1. Windows Server 2019 
