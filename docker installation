@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Quick update
+sudo apt update
+
+# Install Docker
+sudo apt install docker.io -y
+
+# Start Docker
+sudo systemctl start docker
+
+# Set docker to launch on boot
+sudo systemctl enable docker
+
+# Quick update
+sudo apt update
+
+# Pull common docker images
+sudo docker pull nginx
