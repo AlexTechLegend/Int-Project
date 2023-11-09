@@ -22,4 +22,4 @@ spec:
       - name: nginx
         image: pnnlacr.azurecr.io/nginx:latest
         ports:
-        - containerPort: 80
+        - containerPort: 80 
