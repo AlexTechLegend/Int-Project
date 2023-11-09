@@ -16,3 +16,4 @@ sudo docker build -t nginx .
 sudo docker tag nginx pnnlacr.azurecr.io/nginx:latest
 
 sudo docker push pnnlacr.azurecr.io/nginx
+ 
