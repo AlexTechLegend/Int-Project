@@ -8,3 +8,4 @@ sudo mv index.html edits
 
 sudo cp edits/ current/
 sudo cp edits/ archive/
+ 
