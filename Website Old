@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pacific Northwest National Laboratory</title>
+    <style>
+        /* CSS for the new theme */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000; /* Black background */
+            color: #fff; /* White text */
+        }
+        header {
+            background-color: #f60; /* Orange header background */
+            text-align: center;
+            padding: 10px;
+        }
+        .container {
+            max-width: 960px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            color: #000; /* Black text on white background */
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.5; /* Improved readability with line spacing */
+        }
+        /* New feature: Style the address element */
+        address {
+            font-style: normal;
+            font-size: 16px;
+        }
+        /* New feature: Style hyperlinks */
+        a {
+            color: #f60; /* Orange link color */
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pacific Northwest National Laboratory</h1>
+    </header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>Pacific Northwest National Laboratory (PNNL) is a world-class research institution located in the Pacific Northwest region of the United States. We are dedicated to advancing scientific discovery and innovation to address some of the most challenging problems facing our nation and the world.</p>
+        
+        <h2>Our Mission</h2>
+        <p>Our mission is to strengthen the United States' scientific foundations and innovation to drive economic growth, enhance national security, and improve quality of life. We conduct research in a wide range of areas, including energy, environment, national security, and fundamental sciences.</p>
+        
+        <h2>Contact Information</h2>
+        <address>
+            Pacific Northwest National Laboratory<br>
+            902 Battelle Boulevard<br>
+            Richland, WA 99354<br>
+            Phone: (555) 123-4567<br>
+            Email: <a href="mailto:info@pnnl.gov">info@pnnl.gov</a>
+        </address>
+    </div>
+</body>
+</html>
